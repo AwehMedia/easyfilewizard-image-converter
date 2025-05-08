@@ -1,0 +1,1 @@
+# EasyFileWizard Image Converter
